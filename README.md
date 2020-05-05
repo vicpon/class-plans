@@ -1,4 +1,5 @@
-# class2
+# Class Plans
+A single-page-application written in Vue.js typescript to give you a single view of your Google Classroom as a student.
 
 ## Project setup
 ```
