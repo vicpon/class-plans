@@ -1,0 +1,9 @@
+// src/sass/main.scss
+
+$color-pack: false;
+
+@import '~vuetify/src/styles/main.sass';
+
+.theme--light.v-application {
+  background-color: #F0F4F9;
+}
